@@ -1,4 +1,3 @@
-<h2 align="left">Olá<h2/>
 <p align="left">👋 Olá! Sou o Edu! 💻 Estou me especializando em Front-end e Python 🐍. Atualmente cursando Ciências da Computação na UFRR 🎓.</p>
 
 
