@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá! Sou o Edu! 💻 Estou me especializando em Front-end e Python 🐍. Atualmente cursando Ciências da Computação na UFRR 🎓.</h2>
+<h2 align="left">👋 Olá! Sou o Edu! 💻 Estou me especializando em Front-end e Python 🐍. Atualmente cursando Ciências da Computação na UFRR 🎓</h2>
 
 
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="20%" align="right" />
