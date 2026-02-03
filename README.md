@@ -1,10 +1,10 @@
-<h2 align="left">👋 Olá! Sou o Edu — QA Engineer focado em qualidade, automação e entrega confiável de software</h2>
+<h2 align="left">👋 Hi! I’m Edu — a QA Engineer focused on quality, automation, and reliable software delivery</h2>
 
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="20%" align="right" />
 
-Atuo em **testes manuais e automação**, focado em garantir **qualidade, confiabilidade e eficiência** ao longo do ciclo de desenvolvimento. Trabalho com **automação em Python**, **testes de API**, **testes web end-to-end**, **boas práticas de qualidade** e **integração com pipelines CI/CD (GitHub Actions)**.
+I work with **manual testing and test automation**, focused on ensuring **quality, reliability, and efficiency** throughout the software development lifecycle. I have experience with **Python-based automation**, **API testing**, **end-to-end web testing**, **quality best practices**, and **CI/CD pipeline integration (GitHub Actions)**.
 
-Tenho experiência colaborando com times de desenvolvimento, participando desde o refinamento até a entrega em produção, sempre com foco em **prevenção de defeitos**, **melhoria contínua** e **valor para o usuário final**.
+I collaborate closely with development teams, participating from refinement to production delivery, always focused on **defect prevention**, **continuous improvement**, and **delivering value to the end user**.
 
 ---
 
@@ -24,15 +24,15 @@ Tenho experiência colaborando com times de desenvolvimento, participando desde 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
-**Principais competências:**
+**Core competencies:**
 
-* Testes manuais (funcional, regressão, exploratório)
-* Automação de testes Web e API
-* Mapeamento de cenários e critérios de aceite (BDD)
-* Testes de API (contrato, status codes, payloads)
-* Testes de carga e performance (validação de tempo de resposta, throughput e estabilidade)
-* Versionamento e colaboração com Git
-* Análise de bugs, evidências e documentação de qualidade
+* Manual testing (functional, regression, exploratory)
+* Web and API test automation
+* Scenario mapping and acceptance criteria (BDD)
+* API testing (contracts, status codes, payloads)
+* Load and performance testing (response time, throughput, and stability validation)
+* Version control and collaboration with Git
+* Bug analysis, evidence collection, and quality documentation
 
 ---
 
@@ -52,4 +52,4 @@ Tenho experiência colaborando com times de desenvolvimento, participando desde 
 
 ---
 
-📌 *Perfil focado em Qualidade de Software, Automação de Testes e boas práticas de QA.*
+📌 *Profile focused on Software Quality, Test Automation, and QA best practices.*
